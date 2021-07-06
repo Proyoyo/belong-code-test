@@ -1,0 +1,89 @@
+{
+  "env": {
+    "browser": true,
+    "es6": true
+  },
+  "globals": {
+    "Atomics": "readonly",
+    "SharedArrayBuffer": "readonly"
+  },
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 2018,
+    "sourceType": "module"
+  },
+  "plugins": [ "react", "@typescript-eslint" ],
+  "extends": [
+    "plugin:react/recommended",
+    "airbnb",
+    "plugin:@typescript-eslint/eslint-recommended",
+    "plugin:@typescript-eslint/recommended"
+  ],
+  "rules": {
+    "import/extensions": [
+      "error",
+      "ignorePackages",
+      {
+        "js": "never",
+        "jsx": "never",
+        "ts": "never",
+        "tsx": "never"
+      }
+    ],
+    "@typescript-eslint/explicit-function-return-type": "off",
+    "@typescript-eslint/explicit-module-boundary-types": "off",
+    "react/jsx-uses-react": "off",
+    "react/react-in-jsx-scope": "off",
+    "no-use-before-define": "off",
+    "@typescript-eslint/no-use-before-define": ["error"],
+    "no-shadow": "off",
+    "no-param-reassign": "off",
+    "no-plusplus": "off",
+    "camelcase": "off",
+    "@typescript-eslint/no-shadow": ["warn"],
+    "no-multiple-empty-lines": [
+      "error",
+      {
+        "max": 1,
+        "maxEOF": 1
+      }
+    ],
+    "max-len": [
+      "error",
+      {
+        "code": 160,
+        "comments": 200
+      }
+    ],
+    "react/prop-types": [
+      2,
+      { "ignore": [ "children" ] }
+    ],
+    "react/jsx-filename-extension": [
+      1,
+      { "extensions": [ ".js", ".jsx", ".ts", ".tsx" ] }
+    ],
+    "react/no-danger": "off",
+    "react/jsx-props-no-spreading": "off",
+    "linebreak-style": "off",
+    "import/no-extraneous-dependencies": [
+      "error",
+      {
+        "devDependencies": [
+          ".storybook/**",
+          "stories/**"
+        ]
+      }
+    ]
+  },
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "extensions": [ ".js", ".jsx", ".ts", ".tsx", ".d.ts" ]
+      }
+    }
+  }
+}
