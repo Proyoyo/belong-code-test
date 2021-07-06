@@ -1,0 +1,3181 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> initial rendering should render correctly 1`] = `
+<div>
+  <div
+    style="display: flex; width: 100vw; height: 100vh; flex: 1; align-items: center; justify-content: center; flex-direction: column;"
+  >
+    <div>
+      <div
+        style="display: grid; grid-template-columns: repeat(10, 30px;"
+      >
+        <div
+          data-testid="00"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="01"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="02"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="03"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="04"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="05"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="06"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="07"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="08"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="09"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="10"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="11"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="12"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="13"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="14"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="15"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="16"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="17"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="18"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="19"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="20"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="21"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="22"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="23"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="24"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="25"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="26"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="27"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="28"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="29"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="30"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="31"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="32"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="33"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="34"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="35"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="36"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="37"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="38"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="39"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="40"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="41"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="42"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="43"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="44"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="45"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="46"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="47"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="48"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="49"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="50"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="51"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="52"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="53"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="54"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="55"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="56"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="57"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="58"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="59"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="60"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="61"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="62"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="63"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="64"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="65"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="66"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="67"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="68"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="69"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="70"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="71"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="72"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="73"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="74"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="75"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="76"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="77"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="78"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="79"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="80"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="81"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="82"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="83"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="84"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="85"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="86"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="87"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="88"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="89"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="90"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="91"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="92"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="93"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="94"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="95"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="96"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="97"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="98"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="99"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+      </div>
+    </div>
+    <div
+      style="margin-top: 8px;"
+    >
+      <button
+        style="margin-right: 8px;"
+        type="button"
+      >
+        Reset
+      </button>
+      <button
+        type="button"
+      >
+        Next Generation
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<App /> when clicking next generation button should bring back to live a cell that comes to live outside the board (board wrapping rule) 1`] = `
+<div>
+  <div
+    style="display: flex; width: 100vw; height: 100vh; flex: 1; align-items: center; justify-content: center; flex-direction: column;"
+  >
+    <div>
+      <div
+        style="display: grid; grid-template-columns: repeat(10, 30px;"
+      >
+        <div
+          data-testid="00"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(68, 68, 68); border: 1px solid black;"
+        />
+        <div
+          data-testid="01"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="02"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="03"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="04"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="05"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="06"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="07"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="08"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="09"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(68, 68, 68); border: 1px solid black;"
+        />
+        <div
+          data-testid="10"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="11"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="12"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="13"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="14"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="15"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="16"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="17"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="18"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="19"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="20"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="21"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="22"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="23"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="24"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="25"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="26"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="27"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="28"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="29"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="30"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="31"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="32"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="33"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="34"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="35"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="36"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="37"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="38"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="39"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="40"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="41"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="42"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="43"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="44"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="45"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="46"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="47"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="48"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="49"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="50"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="51"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="52"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="53"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="54"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="55"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="56"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="57"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="58"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="59"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="60"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="61"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="62"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="63"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="64"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="65"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="66"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="67"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="68"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="69"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="70"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="71"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="72"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="73"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="74"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="75"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="76"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="77"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="78"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="79"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="80"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="81"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="82"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="83"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="84"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="85"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="86"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="87"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="88"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="89"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="90"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="91"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="92"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="93"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="94"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="95"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="96"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="97"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="98"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="99"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+      </div>
+    </div>
+    <div
+      style="margin-top: 8px;"
+    >
+      <button
+        style="margin-right: 8px;"
+        type="button"
+      >
+        Reset
+      </button>
+      <button
+        type="button"
+      >
+        Next Generation
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<App /> when clicking next generation button should bring back to live an empty cell with exactly 3 live neighbours 1`] = `
+<div>
+  <div
+    style="display: flex; width: 100vw; height: 100vh; flex: 1; align-items: center; justify-content: center; flex-direction: column;"
+  >
+    <div>
+      <div
+        style="display: grid; grid-template-columns: repeat(10, 30px;"
+      >
+        <div
+          data-testid="00"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(68, 68, 68); border: 1px solid black;"
+        />
+        <div
+          data-testid="01"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(68, 68, 68); border: 1px solid black;"
+        />
+        <div
+          data-testid="02"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="03"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="04"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="05"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="06"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="07"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="08"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="09"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="10"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(68, 68, 68); border: 1px solid black;"
+        />
+        <div
+          data-testid="11"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(68, 68, 68); border: 1px solid black;"
+        />
+        <div
+          data-testid="12"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="13"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="14"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="15"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="16"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="17"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="18"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="19"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="20"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="21"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="22"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="23"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="24"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="25"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="26"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="27"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="28"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="29"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="30"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="31"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="32"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="33"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="34"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="35"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="36"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="37"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="38"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="39"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="40"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="41"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="42"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="43"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="44"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="45"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="46"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="47"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="48"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="49"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="50"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="51"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="52"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="53"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="54"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="55"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="56"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="57"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="58"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="59"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="60"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="61"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="62"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="63"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="64"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="65"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="66"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="67"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="68"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="69"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="70"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="71"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="72"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="73"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="74"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="75"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="76"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="77"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="78"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="79"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="80"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="81"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="82"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="83"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="84"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="85"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="86"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="87"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="88"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="89"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="90"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="91"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="92"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="93"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="94"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="95"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="96"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="97"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="98"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="99"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+      </div>
+    </div>
+    <div
+      style="margin-top: 8px;"
+    >
+      <button
+        style="margin-right: 8px;"
+        type="button"
+      >
+        Reset
+      </button>
+      <button
+        type="button"
+      >
+        Next Generation
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<App /> when clicking next generation button should kill a cell with fewer than two live neighbours (under-population rule) 1`] = `
+<div>
+  <div
+    style="display: flex; width: 100vw; height: 100vh; flex: 1; align-items: center; justify-content: center; flex-direction: column;"
+  >
+    <div>
+      <div
+        style="display: grid; grid-template-columns: repeat(10, 30px;"
+      >
+        <div
+          data-testid="00"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="01"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="02"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="03"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="04"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="05"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="06"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="07"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="08"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="09"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="10"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="11"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="12"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="13"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="14"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="15"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="16"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="17"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="18"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="19"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="20"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="21"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="22"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="23"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="24"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="25"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="26"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="27"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="28"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="29"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="30"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="31"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="32"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="33"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="34"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="35"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="36"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="37"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="38"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="39"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="40"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="41"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="42"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="43"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="44"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="45"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="46"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="47"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="48"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="49"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="50"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="51"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="52"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="53"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="54"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="55"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="56"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="57"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="58"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="59"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="60"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="61"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="62"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="63"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="64"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="65"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="66"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="67"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="68"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="69"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="70"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="71"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="72"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="73"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="74"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="75"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="76"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="77"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="78"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="79"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="80"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="81"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="82"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="83"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="84"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="85"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="86"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="87"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="88"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="89"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="90"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="91"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="92"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="93"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="94"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="95"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="96"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="97"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="98"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="99"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+      </div>
+    </div>
+    <div
+      style="margin-top: 8px;"
+    >
+      <button
+        style="margin-right: 8px;"
+        type="button"
+      >
+        Reset
+      </button>
+      <button
+        type="button"
+      >
+        Next Generation
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<App /> when clicking next generation button should kill a cell with more than 3 live neighbours (overcrowding rule) 1`] = `
+<div>
+  <div
+    style="display: flex; width: 100vw; height: 100vh; flex: 1; align-items: center; justify-content: center; flex-direction: column;"
+  >
+    <div>
+      <div
+        style="display: grid; grid-template-columns: repeat(10, 30px;"
+      >
+        <div
+          data-testid="00"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="01"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="02"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="03"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="04"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="05"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="06"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="07"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="08"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="09"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(68, 68, 68); border: 1px solid black;"
+        />
+        <div
+          data-testid="10"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(68, 68, 68); border: 1px solid black;"
+        />
+        <div
+          data-testid="11"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(68, 68, 68); border: 1px solid black;"
+        />
+        <div
+          data-testid="12"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="13"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="14"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="15"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="16"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="17"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="18"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="19"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="20"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="21"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="22"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="23"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="24"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="25"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="26"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="27"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="28"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="29"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="30"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="31"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="32"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="33"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="34"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="35"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="36"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="37"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="38"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="39"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="40"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="41"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="42"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="43"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="44"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="45"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="46"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="47"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="48"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="49"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="50"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="51"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="52"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="53"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="54"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="55"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="56"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="57"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="58"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="59"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="60"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="61"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="62"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="63"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="64"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="65"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="66"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="67"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="68"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="69"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="70"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="71"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="72"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="73"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="74"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="75"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="76"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="77"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="78"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="79"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="80"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="81"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="82"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="83"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="84"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="85"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="86"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="87"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="88"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="89"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="90"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(68, 68, 68); border: 1px solid black;"
+        />
+        <div
+          data-testid="91"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(68, 68, 68); border: 1px solid black;"
+        />
+        <div
+          data-testid="92"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="93"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="94"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="95"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="96"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="97"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="98"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="99"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+      </div>
+    </div>
+    <div
+      style="margin-top: 8px;"
+    >
+      <button
+        style="margin-right: 8px;"
+        type="button"
+      >
+        Reset
+      </button>
+      <button
+        type="button"
+      >
+        Next Generation
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<App /> when clicking next generation button should preserve cell with 2 or 3 live neighbours 1`] = `
+<div>
+  <div
+    style="display: flex; width: 100vw; height: 100vh; flex: 1; align-items: center; justify-content: center; flex-direction: column;"
+  >
+    <div>
+      <div
+        style="display: grid; grid-template-columns: repeat(10, 30px;"
+      >
+        <div
+          data-testid="00"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(68, 68, 68); border: 1px solid black;"
+        />
+        <div
+          data-testid="01"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(68, 68, 68); border: 1px solid black;"
+        />
+        <div
+          data-testid="02"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="03"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="04"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="05"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="06"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="07"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="08"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="09"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="10"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(68, 68, 68); border: 1px solid black;"
+        />
+        <div
+          data-testid="11"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(68, 68, 68); border: 1px solid black;"
+        />
+        <div
+          data-testid="12"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="13"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="14"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="15"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="16"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="17"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="18"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="19"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="20"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="21"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="22"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="23"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="24"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="25"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="26"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="27"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="28"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="29"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="30"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="31"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="32"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="33"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="34"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="35"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="36"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="37"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="38"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="39"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="40"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="41"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="42"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="43"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="44"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="45"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="46"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="47"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="48"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="49"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="50"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="51"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="52"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="53"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="54"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="55"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="56"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="57"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="58"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="59"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="60"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="61"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="62"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="63"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="64"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="65"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="66"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="67"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="68"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="69"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="70"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="71"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="72"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="73"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="74"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="75"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="76"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="77"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="78"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="79"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="80"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="81"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="82"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="83"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="84"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="85"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="86"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="87"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="88"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="89"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="90"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="91"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="92"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="93"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="94"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="95"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="96"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="97"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="98"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+        <div
+          data-testid="99"
+          role="presentation"
+          style="width: 30px; height: 30px; background-color: rgb(255, 255, 255); border: 1px solid black;"
+        />
+      </div>
+    </div>
+    <div
+      style="margin-top: 8px;"
+    >
+      <button
+        style="margin-right: 8px;"
+        type="button"
+      >
+        Reset
+      </button>
+      <button
+        type="button"
+      >
+        Next Generation
+      </button>
+    </div>
+  </div>
+</div>
+`;

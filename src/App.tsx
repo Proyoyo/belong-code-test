@@ -4,8 +4,8 @@
 import produce from 'immer';
 import { useCallback, useState } from 'react';
 
-const NUMBER_OF_ROWS = 10;
-const NUMBER_OF_COLUMNS = 10;
+export const NUMBER_OF_ROWS = 10;
+export const NUMBER_OF_COLUMNS = 10;
 
 const CELL_SIZE = 30;
 
@@ -79,7 +79,6 @@ const App: React.FC = () => {
       flexDirection: 'column',
     }}
     >
-
       <div>
         <div style={{
           display: 'grid',
@@ -89,6 +88,7 @@ const App: React.FC = () => {
           {grid.map((rows, rowIndex) => rows.map((columns, columnIndex) => (
             <div
               key={`${rowIndex}${columnIndex}`}
+              data-testid={`${rowIndex}${columnIndex}`}
               onClick={() => {
                 // Use immer produce to create a draft copy that you can modify, then it creates an immutable next state
                 const newGrid = produce(grid, (draftGrid) => {
